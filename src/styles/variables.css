@@ -1,0 +1,30 @@
+:root {
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+
+  --color-primary-800: #6d0f2b;
+  --color-secondary-600: #0d9488;
+  --color-success-600: #22a06b;
+  --color-gray-700: #374151;
+  --color-gray-300: #d1d5db;
+  --color-gray-100: #eef2f5;
+  --color-error-800: #991b1b;
+  --color-white: #fff;
+
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+
+  --radius-sm: 0.25rem;
+  --radius-md: 0.25rem;
+  --radius-lg: 0.25rem;
+}
+
+html, body {
+  font-family: var(--font-sans);
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+input, textarea, button, select { font: inherit; }

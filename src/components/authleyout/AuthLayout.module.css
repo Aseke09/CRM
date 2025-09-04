@@ -1,0 +1,14 @@
+.shell {
+  height: 100dvh; 
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #f8fafc 0%, #f3f4f6 100%);
+  overflow: hidden; 
+}
+
+.main {
+  flex: 1 1 auto;
+  display: grid;
+  place-items: center;
+  padding: 24px;                    
+}

@@ -1,0 +1,34 @@
+{
+  "lang": { "ru": "RU", "kz": "KZ" },
+
+  "auth.title": "Авторизация",
+  "auth.welcome": "Добро пожаловать!",
+  "auth.login": "Логин",
+  "auth.password": "Пароль",
+  "auth.passwordPlaceholder": "Введите пароль",
+  "auth.remember": "Запомнить меня",
+  "auth.forgot": "Восстановить пароль",
+  "auth.submit": "Вход",
+  "auth.recover": "Восстановить пароль",
+
+  "nav.home": "Главная",
+  "nav.applications": "Заявки",
+  "nav.projects": "Проекты",
+  "nav.profile": "Профиль",
+
+  "apps": {
+    "list": "Заявки",
+    "textLabel": "Текст заявки",
+    "textPlaceholder": "Введите текст заявки",
+    "delete": "Удалить",
+    "approve": "Принять"
+  },
+
+  "common.delete": "Удалить",
+  "common.accept": "Принять",
+  "dashboard.category": "Название категории",
+  "dashboard.expand": "Развернуть",
+  "form.text": "Текст заявки",
+
+  "auth.productTagline": "РЕЙТИНГОВАЯ МОДЕЛЬ."
+}
