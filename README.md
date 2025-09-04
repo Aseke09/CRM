@@ -1,26 +1,31 @@
-# CRM — Vite Dev Setup
+## CRM — Vite Dev Setup
 
-Проект на **React + TypeScript + Vite**. Ниже — минимальные шаги для локального запуска в режиме разработки.
+Проект на React + TypeScript + Vite. Ниже — минимальные шаги для локального запуска в режиме разработки.
 
-## Требования
-- **Node.js**: 18.x или 20.x  
+### Требования
+- Node.js 18.x или 20.x  
   Проверить версии:
   ```bash
   node -v
   npm -v
-# 1) Клонируем репозиторий
+
+## 1) Клонируем репозиторий
 git clone https://github.com/Aseke09/CRM.git
 cd CRM
 
-# 2) Устанавливаем зависимости (выбери ОДНО)
+## 2) Устанавливаем зависимости (выбери ОДНО)
 npm install
-# или
+## или
 yarn
-# или
+## или
 pnpm install
-npm run dev
-# или
+
+## npm run dev
+## или
 yarn dev
-# или
+## или
 pnpm dev
+
+
+
 
