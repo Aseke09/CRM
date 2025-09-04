@@ -21,7 +21,7 @@ const ApplicationsPage: React.FC = () => {
   return (
     <div className={styles.page}>
       <div className={styles.breadcrumbs}>
-        <span className={styles.bcLink}>{t("apps.list", "Заявки")}</span>
+        <span className={styles.bcLink}>{t("apps.list")}</span>
         <span className={styles.badge}>#{id ?? "124581"}</span>
         <span className={styles.badge}>{appUser}</span>
       </div>
